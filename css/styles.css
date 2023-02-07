@@ -445,6 +445,10 @@ svg{
     border-radius: 4px;
 }
 
+.modal-field.field-check {
+    align-items: center;
+}
+
 .modal-label.check {
     flex-direction: row;
     align-items: center;
